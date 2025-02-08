@@ -1,0 +1,1 @@
+export 'package:dullyingetx/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
